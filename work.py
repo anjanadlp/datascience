@@ -1,6 +1,6 @@
 
 
-def sum():
+def sum(a,d):
 
-    pass
+    return a,d
 
