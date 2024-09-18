@@ -1,6 +1,6 @@
 
 
-def sum(a,d):
+def sum(a,p,d):
 
-    return a,d
+    return a+p+d
 
